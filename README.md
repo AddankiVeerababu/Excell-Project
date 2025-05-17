@@ -2,8 +2,8 @@
 
 This project features an interactive dashboard designed to analyze call center performance data from the year 2023. The dashboard provides key insights into call volume, revenue generation, agent performance, customer satisfaction, and more.
 
-![Dashboard Preview](./![image](https://github.com/user-attachments/assets/17cc4ea8-e6d9-4b53-92b6-efda3307929e)
-.png)
+(./![image](https://github.com/user-attachments/assets/17cc4ea8-e6d9-4b53-92b6-efda3307929e)
+
 
 ---
 
