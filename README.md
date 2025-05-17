@@ -15,6 +15,7 @@ This project presents an interactive dashboard built to analyze the performance 
 😊 Happy Callers: 307
 
 📊 Dashboard Features
+
 📈 Monthly Call Trends: Visualizes fluctuations in call volume from Jan to Dec.
 
 🕒 Day-wise Activity: Highlights the busiest days (e.g., Saturday shows the highest call volume).
@@ -29,11 +30,14 @@ Filter by individual reps (R01–R05) to view detailed insights.
 
 🌆 City-Level Metrics: Displays call distribution and revenue per city.
 
+
 📊 Rating Distribution: Shows how customers rated their experience (from 1 to 5 stars).
 
 📋 Tabular Summary: Drill down to call details per rep and per customer.
 
 🧰 Tools & Technologies Used
+
 Microsoft Excel – Data analysis and dashboard building
+
 Design – Red-themed visual cues to highlight KPIs and trends
 
