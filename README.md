@@ -1,43 +1,47 @@
-# CALL CENTER REPORT-2023
-📞 Call Center Report - 2023
-This project presents an interactive dashboard built to analyze the performance of a call center in 2023. Designed using Excel and visualization tools, the dashboard provides deep insights into call trends, representative performance, customer satisfaction, and more.
+# 📞 Call Center Report - 2023
 
+This project features an interactive dashboard designed to analyze call center performance data from the year 2023. The dashboard provides key insights into call volume, revenue generation, agent performance, customer satisfaction, and more.
 
-📌 Key Highlights
-✅ Total Calls Handled: 1,000
+![Dashboard Preview](./59ca6fbb-be23-4a76-87c4-5ecde3fcd794.png)
 
-💰 Total Revenue Generated: $96,623
+---
 
-⏱️ Total Duration of Calls: 89,850 seconds
+## 📌 Key Highlights
 
-⭐ Average Customer Rating: 3.9 / 5
+- **Total Calls**: 1,000  
+- **Revenue Generated**: $96,623  
+- **Total Duration**: 89,850 seconds  
+- **Average Rating**: 3.9 / 5  
+- **Happy Callers**: 307
 
-😊 Happy Callers: 307
+---
 
-📊 Dashboard Features
+## 📊 Dashboard Features
 
-📈 Monthly Call Trends: Visualizes fluctuations in call volume from Jan to Dec.
+- **Monthly Call Trends** – Visual view of call volumes across each month.
+- **Day-wise Analysis** – Identifies peak call days (e.g., Saturday highest).
+- **Agent Performance** – Compare calls handled and revenue across R01–R05.
+- **Gender Distribution** – Female vs. Male caller insights across cities.
+- **City-Level Metrics** – Aggregated call and revenue data for Cincinnati, Cleveland, Columbus.
+- **Ratings Breakdown** – Visual distribution of customer ratings.
+- **Detailed Table** – Breakdown of revenue per customer and representative.
 
-🕒 Day-wise Activity: Highlights the busiest days (e.g., Saturday shows the highest call volume).
+---
 
-🔍 Representative Analysis:
+## 🛠️ Tools Used
 
-Compare performance by number of calls, amount generated, and average duration.
+- Microsoft Excel – For data organization and dashboard creation
+- Excel Charts & Slicers – For interactivity
+- Optional: Tableau/Power BI (not used in this version)
 
-Filter by individual reps (R01–R05) to view detailed insights.
+---
 
-👥 Gender Demographics:Breakdown of Female vs. Male callers across cities (Cincinnati, Cleveland, Columbus).
+## 🧾 File Details
 
-🌆 City-Level Metrics: Displays call distribution and revenue per city.
+- **CALL CENTER REPORT-2023.xlsx** – Contains both the raw data and the complete interactive dashboard
+- **Dashboard Image** – Screenshot of the dashboard (`59ca6fbb-be23-4a76-87c4-5ecde3fcd794.png`)
 
+---
 
-📊 Rating Distribution: Shows how customers rated their experience (from 1 to 5 stars).
-
-📋 Tabular Summary: Drill down to call details per rep and per customer.
-
-🧰 Tools & Technologies Used
-
-Microsoft Excel – Data analysis and dashboard building
-
-Design – Red-themed visual cues to highlight KPIs and trends
+## 📁 Folder Structure
 
