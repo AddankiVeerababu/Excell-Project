@@ -33,7 +33,6 @@ This project features an interactive dashboard designed to analyze call center p
 
 - Microsoft Excel – For data organization and dashboard creation
 - Excel Charts & Slicers – For interactivity
-- Optional: Tableau/Power BI (not used in this version)
 
 ---
 
